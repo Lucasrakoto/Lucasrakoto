@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas RAKOTOARIHANTA</h1>
+<h1 align="center">Hi 👋, I'm Lucas RAKOTOARIHANTA 😀</h1>
 <h3 align="center">A passionate developer from Madagascar,  👀 living in Antananarivo ,<br/>
   🌱 IT and telecommunications student at ISPM,</h3>
 <br/>
